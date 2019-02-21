@@ -1,2 +1,5 @@
-# Lottery-project
-基于webpack构建工具和gup工具结合ES6开发
+<!-- /*
+这是一个关于彩票的项目
+1、主要基于ES6语言的实现
+2、基于gulp自动化工具的实现
+3、基于webpack、babel等编译工具和构建工具的使用 -->
